@@ -1,0 +1,8 @@
+{
+  "name": "steelhead-digital",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'App running in browser mode'"
+  },
+  "dependencies": {}
+}
